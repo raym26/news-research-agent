@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Virtual Environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+#*.pkl
+#faiss_store_openai.pkl
+
+# IDE specific files
+.idea/
+.vscode/
