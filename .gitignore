@@ -11,8 +11,8 @@ __pycache__/
 *$py.class
 
 # Data files
-#*.pkl
-#faiss_store_openai.pkl
+*.pkl
+faiss_store_openai.pkl
 
 # IDE specific files
 .idea/
